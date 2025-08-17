@@ -8,16 +8,7 @@ that key parameters of the mathematical optimization model of the marketing camp
 
 This modeling example is at the beginner level, where we assume that you know Python and that you have some knowledge about 
 building mathematical optimization models. 
-The reader should also consult the  [documentation](https://www.gurobi.com/resources/?category-filter=documentation)
-of the Gurobi Python API.
+
+o
 
 
-## View the notebook
-
-[Google Colab Link](https://colab.research.google.com/github/Gurobi/modeling-examples/blob/master/marketing_campaign_optimization/marketing_campaign_optimization.ipynb)
-
-
-----
-For details on licensing or on running the notebooks, see the overview on [Modeling Examples](../)
-
-© Gurobi Optimization, LLC
